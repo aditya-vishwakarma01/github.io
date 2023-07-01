@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Page</title>
+</head>
+
+<body>
+    <h1>Name: Aditya Vishwakarma</h1>
+    <h3>Address: <p></p>Samarth chawl, Ishwar nagar, Dighe, Navi-Mumbai - 400708</h3>
+    <h3>email: adityasraazvishwakarma@gmail.com</h3>
+
+    
+</body>
+</html>
